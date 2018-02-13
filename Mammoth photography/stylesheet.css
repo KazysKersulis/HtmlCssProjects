@@ -1,0 +1,136 @@
+body{
+  background-color: rgba(252, 252, 252, 1.0);
+  color: #222222;
+  font-family: "Abel", sans-serif;
+  font-size: 20px;
+}
+
+h1, h2{
+  text-transform: uppercase;
+  margin: 0px;
+  padding: 0px;
+  color: #111111;
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+h1{
+  font-family: 'Lucida Bright', Georgia, serif;
+}
+
+h2{
+  font-size: 2.1em;
+  font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+}
+
+#logo h1{
+  line-height: 150px;
+  width: 1000px auto;
+  font-size: 3em;
+  padding: 30px 30px;
+}
+
+.textSectionClass{
+  width: 1000px;
+  overflow: hidden;
+  margin: 0px auto;
+  padding: 30px 30px;
+}
+
+#nineColumns {
+  overflow: hidden;
+  width: 1000px;
+  margin: 0px auto;
+  padding: 30px 30px;
+}
+
+#nineColumns #section1{
+  float: left;
+  width: 300px;
+  margin-right: 50px;
+  background-image: url(http://www.publicdomainpictures.net/pictures/70000/velka/katze-schwarzweiss.jpg);
+  padding: 300px 0px;
+  
+  background-position: right;
+  background-size: cover;
+}
+
+#nineColumns #section2{
+  float: left;
+  width: 300px;
+  margin-right: 50px;
+  background-image: url(http://www.publicdomainpictures.net/pictures/40000/velka/plant-black-and-white.jpg);
+  padding: 300px 0px;
+  background-position: center;
+  background-size: cover;
+}
+
+#nineColumns #section3{
+  float: right;
+  width: 300px;
+  background-image: url(http://www.publicdomainpictures.net/pictures/40000/velka/river-black-and-white.jpg);
+  padding: 300px 0px;
+  background-position: center;
+  background-size: cover;
+}
+
+#nineColumns #section4{
+  float: left;
+  width: 300px;
+  margin-right: 50px;
+  background-image: url(http://www.publicdomainpictures.net/pictures/10000/velka/87-1276689971v1i2.jpg);
+  padding: 300px 0px;
+  background-position: center;
+  background-size: cover;
+}
+
+#nineColumns #section5{
+  float: left;
+  width: 300px;
+  margin-right: 50px;
+  background-image: url(http://www.publicdomainpictures.net/pictures/10000/velka/tower-bridge-at-night-11281016375NT0H.jpg);
+  padding: 300px 0px;
+  background-position: center;
+  background-size: cover;
+}
+
+#nineColumns #section6{
+  float: right;
+  width: 300px;
+  background-image: url(http://www.publicdomainpictures.net/pictures/10000/velka/old-castle-gate-11281969200foh6.jpg);
+  padding: 300px 0px;
+  background-position: center;
+  background-size: cover;
+}
+
+#nineColumns #section7{
+  float: left;
+  width: 300px;
+  margin-right: 50px;
+  background-image: url(http://www.publicdomainpictures.net/pictures/20000/velka/straw-in-the-field-1318272103QII.jpg);
+  padding: 300px 0px;
+  background-position: right;
+  background-size: cover;
+}
+
+#nineColumns #section8{
+  float: left;
+  width: 300px;
+  margin-right: 50px;
+  background-image: url(http://www.publicdomainpictures.net/pictures/10000/velka/old-books-11281939505Msrn.jpg);
+  padding: 300px 0px;
+  background-position: center;
+  background-size: cover;
+}
+
+#nineColumns #section9{
+  float: right;
+  width: 300px;
+  background-image: url(http://www.publicdomainpictures.net/pictures/20000/velka/empire-state-building.jpg);
+  padding: 300px 0px;
+  background-position: right;
+  background-size: cover;
+}
+
+
+
